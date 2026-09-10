@@ -1,0 +1,6 @@
+{
+  "name": "Employee Health Benefits Analytics & Insights Dashboard",
+  "description": "An end-to-end analytics solution for analyzing employee healthcare benefits, claims, utilization, costs, and anomalies to generate actionable business insights through automated analysis and interactive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

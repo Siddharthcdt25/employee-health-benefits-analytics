@@ -1,0 +1,33 @@
+{
+  "total_evaluated_claimants": 10000,
+  "total_flagged_claimants": 379,
+  "flagged_percentage": 3.79,
+  "statistical_thresholds": {
+    "iqr_value": 3525.19,
+    "iqr_mild_upper_cutoff": 10021.47,
+    "iqr_extreme_upper_cutoff": 15309.25,
+    "zscore_cutoff_std3": 23280.65
+  },
+  "statistical_counts": {
+    "iqr_mild_outliers": 791,
+    "iqr_extreme_outliers": 377,
+    "zscore_outliers_std3": 133
+  },
+  "clinical_and_fwa_counts": {
+    "extreme_claim_without_inpatient": 8,
+    "excessive_doctor_visits_healthy": 2,
+    "polypharmacy_spike_healthy": 0,
+    "extreme_loss_ratio_exceeds_800pct": 13
+  },
+  "priority_stratification": {
+    "Normal": 9621,
+    "Moderate": 246,
+    "High": 120,
+    "Critical": 13
+  },
+  "financial_impact_of_anomalies": {
+    "critical_and_high_claimants_count": 133,
+    "critical_and_high_spend_total": 5142974.63,
+    "critical_and_high_spend_share_pct": 12.53
+  }
+}

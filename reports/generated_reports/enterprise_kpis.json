@@ -1,0 +1,52 @@
+{
+  "workforce_summary": {
+    "total_covered_employees": 10000,
+    "active_claimants": 9920,
+    "utilization_rate_pct": 99.2
+  },
+  "financial_metrics": {
+    "total_incurred_claims_spend": 41036889.66,
+    "total_premiums_collected": 86837098.04,
+    "per_employee_per_year_pepy": 4103.69,
+    "median_cost_per_employee": 2537.03,
+    "medical_loss_ratio_mlr_pct": 47.26,
+    "plan_net_margin_pct": 52.74
+  },
+  "utilization_and_admissions": {
+    "hospitalization_rate_per_1000": 106.7,
+    "total_inpatient_admissions": 1067,
+    "preventive_care_ratio_pct": 79.32,
+    "prescriptions_per_employee": 7.39,
+    "doctor_visits_per_employee": 3.15
+  },
+  "clinical_burden": {
+    "chronic_prevalence_pct": 32.07,
+    "chronic_claimant_count": 3207,
+    "chronic_pepy": 6840.77,
+    "healthy_pepy": 2811.5,
+    "chronic_cost_multiplier": 2.43,
+    "chronic_share_of_total_claims_pct": 53.46
+  },
+  "wellness_program_roi": {
+    "wellness_participation_rate_pct": 42.85,
+    "enrolled_members_count": 4285,
+    "wellness_pepy": 3879.16,
+    "non_wellness_pepy": 4272.04,
+    "per_member_annual_savings": 392.88,
+    "total_annual_cost_avoidance": 1683494.42,
+    "hospital_admit_rate_wellness_per_1000": 80.3,
+    "hospital_admit_rate_non_wellness_per_1000": 126.5,
+    "admission_reduction_pct": 36.54
+  },
+  "catastrophic_risk_concentration": {
+    "top_1_pct_spend_share": 10.55,
+    "top_5_pct_spend_share": 27.8,
+    "top_10_pct_spend_share": 40.68,
+    "catastrophic_threshold_95th": 13220.6
+  },
+  "strategic_cost_reduction_opportunities": {
+    "underutilized_high_plan_members": 156,
+    "estimated_plan_migration_annual_savings": 390000.0,
+    "projected_wellness_expansion_savings": 561328.51
+  }
+}

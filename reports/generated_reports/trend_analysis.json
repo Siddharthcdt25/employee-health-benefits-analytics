@@ -1,0 +1,439 @@
+{
+  "age_cohort_analysis": {
+    "18-29": {
+      "headcount": 2543,
+      "total_spend": 7051634.24,
+      "avg_spend_pepy": 2772.96,
+      "median_spend": 1478.85,
+      "chronic_prevalence_pct": 11.52,
+      "hospitalization_rate_pct": 7.12,
+      "avg_health_risk_score": 0.71,
+      "avg_doctor_visits": 2.23,
+      "avg_prescriptions": 3.23
+    },
+    "30-39": {
+      "headcount": 3002,
+      "total_spend": 10580625.37,
+      "avg_spend_pepy": 3524.53,
+      "median_spend": 2193.36,
+      "chronic_prevalence_pct": 21.79,
+      "hospitalization_rate_pct": 8.46,
+      "avg_health_risk_score": 0.84,
+      "avg_doctor_visits": 2.87,
+      "avg_prescriptions": 6.02
+    },
+    "40-49": {
+      "headcount": 2643,
+      "total_spend": 12610854.69,
+      "avg_spend_pepy": 4771.42,
+      "median_spend": 3162.24,
+      "chronic_prevalence_pct": 42.15,
+      "hospitalization_rate_pct": 11.39,
+      "avg_health_risk_score": 1.06,
+      "avg_doctor_visits": 3.65,
+      "avg_prescriptions": 9.5
+    },
+    "50-59": {
+      "headcount": 1580,
+      "total_spend": 9203020.04,
+      "avg_spend_pepy": 5824.7,
+      "median_spend": 4147.47,
+      "chronic_prevalence_pct": 61.14,
+      "hospitalization_rate_pct": 13.86,
+      "avg_health_risk_score": 1.25,
+      "avg_doctor_visits": 4.1,
+      "avg_prescriptions": 12.13
+    },
+    "60+": {
+      "headcount": 232,
+      "total_spend": 1590755.32,
+      "avg_spend_pepy": 6856.7,
+      "median_spend": 4999.48,
+      "chronic_prevalence_pct": 77.59,
+      "hospitalization_rate_pct": 19.4,
+      "avg_health_risk_score": 1.44,
+      "avg_doctor_visits": 4.6,
+      "avg_prescriptions": 14.42
+    }
+  },
+  "organizational_trends": {
+    "department_summary": {
+      "Customer Support": {
+        "headcount": 961,
+        "total_spend": 4095537.92,
+        "avg_spend_pepy": 4261.75,
+        "loss_ratio_pct": 53.76,
+        "high_cost_claimants": 55
+      },
+      "Engineering": {
+        "headcount": 2553,
+        "total_spend": 10622059.48,
+        "avg_spend_pepy": 4160.62,
+        "loss_ratio_pct": 51.73,
+        "high_cost_claimants": 135
+      },
+      "Finance": {
+        "headcount": 964,
+        "total_spend": 4190767.94,
+        "avg_spend_pepy": 4347.27,
+        "loss_ratio_pct": 57.46,
+        "high_cost_claimants": 54
+      },
+      "Human Resources": {
+        "headcount": 487,
+        "total_spend": 1954985.61,
+        "avg_spend_pepy": 4014.34,
+        "loss_ratio_pct": 50.19,
+        "high_cost_claimants": 28
+      },
+      "Marketing": {
+        "headcount": 1187,
+        "total_spend": 5022611.73,
+        "avg_spend_pepy": 4231.35,
+        "loss_ratio_pct": 55.94,
+        "high_cost_claimants": 59
+      },
+      "Operations": {
+        "headcount": 1816,
+        "total_spend": 7234841.88,
+        "avg_spend_pepy": 3983.94,
+        "loss_ratio_pct": 50.96,
+        "high_cost_claimants": 84
+      },
+      "Sales": {
+        "headcount": 2032,
+        "total_spend": 7916085.1,
+        "avg_spend_pepy": 3895.71,
+        "loss_ratio_pct": 48.55,
+        "high_cost_claimants": 85
+      }
+    },
+    "location_summary": {
+      "Atlanta": {
+        "headcount": 993,
+        "total_spend": 4309390.13,
+        "avg_spend_pepy": 4339.77,
+        "loss_ratio_pct": 55.67
+      },
+      "Austin": {
+        "headcount": 1560,
+        "total_spend": 6304957.41,
+        "avg_spend_pepy": 4041.64,
+        "loss_ratio_pct": 51.68
+      },
+      "Chicago": {
+        "headcount": 1496,
+        "total_spend": 6013319.71,
+        "avg_spend_pepy": 4019.6,
+        "loss_ratio_pct": 49.88
+      },
+      "New York": {
+        "headcount": 2154,
+        "total_spend": 9083287.31,
+        "avg_spend_pepy": 4216.94,
+        "loss_ratio_pct": 53.77
+      },
+      "Remote": {
+        "headcount": 1961,
+        "total_spend": 7826057.99,
+        "avg_spend_pepy": 3990.85,
+        "loss_ratio_pct": 50.79
+      },
+      "San Francisco": {
+        "headcount": 1836,
+        "total_spend": 7499877.11,
+        "avg_spend_pepy": 4084.9,
+        "loss_ratio_pct": 51.86
+      }
+    },
+    "department_location_pepy_matrix": {
+      "Atlanta": {
+        "Customer Support": 4367.85,
+        "Engineering": 4083.71,
+        "Finance": 5074.46,
+        "Human Resources": 3975.51,
+        "Marketing": 5192.67,
+        "Operations": 4708.36,
+        "Sales": 3663.88
+      },
+      "Austin": {
+        "Customer Support": 4257.04,
+        "Engineering": 4702.07,
+        "Finance": 4286.82,
+        "Human Resources": 4007.93,
+        "Marketing": 3935.92,
+        "Operations": 3519.83,
+        "Sales": 3538.2
+      },
+      "Chicago": {
+        "Customer Support": 3888.81,
+        "Engineering": 3823.4,
+        "Finance": 4109.98,
+        "Human Resources": 4918.68,
+        "Marketing": 4116.25,
+        "Operations": 3864.97,
+        "Sales": 4178.99
+      },
+      "New York": {
+        "Customer Support": 3986.7,
+        "Engineering": 4337.71,
+        "Finance": 4200.34,
+        "Human Resources": 4170.49,
+        "Marketing": 4715.32,
+        "Operations": 3909.52,
+        "Sales": 4163.88
+      },
+      "Remote": {
+        "Customer Support": 5142.88,
+        "Engineering": 3866.36,
+        "Finance": 4117.13,
+        "Human Resources": 3373.42,
+        "Marketing": 4040.87,
+        "Operations": 3841.75,
+        "Sales": 3799.61
+      },
+      "San Francisco": {
+        "Customer Support": 3883.76,
+        "Engineering": 4142.97,
+        "Finance": 4676.3,
+        "Human Resources": 3845.23,
+        "Marketing": 3750.92,
+        "Operations": 4327.65,
+        "Sales": 3895.79
+      }
+    }
+  },
+  "chronic_condition_deep_dive": {
+    "Cardiovascular": {
+      "headcount": 451,
+      "total_claims": 3027284.48,
+      "pepy_spend": 6712.38,
+      "median_spend": 5093.79,
+      "avg_prescriptions": 14.36,
+      "avg_hospital_stays": 0.18,
+      "avg_risk_score": 1.74
+    },
+    "Diabetes": {
+      "headcount": 856,
+      "total_claims": 5676312.25,
+      "pepy_spend": 6631.21,
+      "median_spend": 4972.44,
+      "avg_prescriptions": 14.53,
+      "avg_hospital_stays": 0.17,
+      "avg_risk_score": 1.49
+    },
+    "Hypertension": {
+      "headcount": 1225,
+      "total_claims": 8622224.11,
+      "pepy_spend": 7038.55,
+      "median_spend": 5187.11,
+      "avg_prescriptions": 14.44,
+      "avg_hospital_stays": 0.19,
+      "avg_risk_score": 1.26
+    },
+    "None": {
+      "headcount": 6793,
+      "total_claims": 19098547.54,
+      "pepy_spend": 2811.5,
+      "median_spend": 1717.8,
+      "avg_prescriptions": 4.05,
+      "avg_hospital_stays": 0.07,
+      "avg_risk_score": 0.74
+    },
+    "Other": {
+      "headcount": 277,
+      "total_claims": 1820640.37,
+      "pepy_spend": 6572.71,
+      "median_spend": 4845.04,
+      "avg_prescriptions": 14.62,
+      "avg_hospital_stays": 0.17,
+      "avg_risk_score": 1.12
+    },
+    "Respiratory": {
+      "headcount": 398,
+      "total_claims": 2791880.91,
+      "pepy_spend": 7014.78,
+      "median_spend": 5127.93,
+      "avg_prescriptions": 14.41,
+      "avg_hospital_stays": 0.17,
+      "avg_risk_score": 1.32
+    }
+  },
+  "wellness_subgroup_impact": {
+    "by_age_cohort": {
+      "18-29": {
+        "Enrolled": 2776.9,
+        "Not Enrolled": 2769.44,
+        "savings_pct": -0.27
+      },
+      "30-39": {
+        "Enrolled": 3451.12,
+        "Not Enrolled": 3579.01,
+        "savings_pct": 3.57
+      },
+      "40-49": {
+        "Enrolled": 4651.42,
+        "Not Enrolled": 4853.68,
+        "savings_pct": 4.17
+      },
+      "50-59": {
+        "Enrolled": 5311.87,
+        "Not Enrolled": 6166.58,
+        "savings_pct": 13.86
+      },
+      "60+": {
+        "Enrolled": 5213.18,
+        "Not Enrolled": 8101.79,
+        "savings_pct": 35.65
+      }
+    },
+    "by_chronic_status": {
+      "No": {
+        "Enrolled": 2693.5,
+        "Not Enrolled": 2901.44,
+        "savings_pct": 7.17
+      },
+      "Yes": {
+        "Enrolled": 6465.25,
+        "Not Enrolled": 7112.71,
+        "savings_pct": 9.1
+      }
+    }
+  },
+  "plan_type_dynamics": {
+    "Bronze HDHP": {
+      "enrolled": 2480,
+      "avg_age": 34.0,
+      "chronic_prevalence_pct": 12.42,
+      "avg_premium": 4115.98,
+      "avg_claims": 2893.96,
+      "loss_ratio": 68.65,
+      "underutilized_members": 0
+    },
+    "Gold PPO": {
+      "enrolled": 2808,
+      "avg_age": 40.75,
+      "chronic_prevalence_pct": 45.69,
+      "avg_premium": 10873.78,
+      "avg_claims": 4759.05,
+      "loss_ratio": 44.19,
+      "underutilized_members": 123
+    },
+    "Platinum Comprehensive": {
+      "enrolled": 1356,
+      "avg_age": 42.18,
+      "chronic_prevalence_pct": 57.3,
+      "avg_premium": 15812.21,
+      "avg_claims": 5525.18,
+      "loss_ratio": 35.5,
+      "underutilized_members": 33
+    },
+    "Silver PPO": {
+      "enrolled": 3356,
+      "avg_age": 38.07,
+      "chronic_prevalence_pct": 25.0,
+      "avg_premium": 7346.41,
+      "avg_claims": 3874.94,
+      "loss_ratio": 53.25,
+      "underutilized_members": 0
+    }
+  },
+  "temporal_seasonality": {
+    "monthly_trajectory": {
+      "1": {
+        "total_spend": 2707561.98,
+        "claim_volume": 3103,
+        "avg_claim_per_employee": 4178.34,
+        "hospital_admissions": 57
+      },
+      "2": {
+        "total_spend": 2276143.32,
+        "claim_volume": 2824,
+        "avg_claim_per_employee": 3877.59,
+        "hospital_admissions": 51
+      },
+      "3": {
+        "total_spend": 3160666.3,
+        "claim_volume": 3505,
+        "avg_claim_per_employee": 4389.81,
+        "hospital_admissions": 85
+      },
+      "4": {
+        "total_spend": 3479099.17,
+        "claim_volume": 3970,
+        "avg_claim_per_employee": 4171.58,
+        "hospital_admissions": 97
+      },
+      "5": {
+        "total_spend": 3470747.11,
+        "claim_volume": 3918,
+        "avg_claim_per_employee": 4279.59,
+        "hospital_admissions": 102
+      },
+      "6": {
+        "total_spend": 3338644.32,
+        "claim_volume": 3911,
+        "avg_claim_per_employee": 4056.68,
+        "hospital_admissions": 91
+      },
+      "7": {
+        "total_spend": 2460137.79,
+        "claim_volume": 2995,
+        "avg_claim_per_employee": 3820.09,
+        "hospital_admissions": 66
+      },
+      "8": {
+        "total_spend": 2974729.79,
+        "claim_volume": 3726,
+        "avg_claim_per_employee": 3853.28,
+        "hospital_admissions": 69
+      },
+      "9": {
+        "total_spend": 3674891.05,
+        "claim_volume": 4385,
+        "avg_claim_per_employee": 4025.07,
+        "hospital_admissions": 100
+      },
+      "10": {
+        "total_spend": 4347874.64,
+        "claim_volume": 4685,
+        "avg_claim_per_employee": 4405.14,
+        "hospital_admissions": 111
+      },
+      "11": {
+        "total_spend": 4533619.23,
+        "claim_volume": 5330,
+        "avg_claim_per_employee": 4022.73,
+        "hospital_admissions": 125
+      },
+      "12": {
+        "total_spend": 4612774.96,
+        "claim_volume": 5384,
+        "avg_claim_per_employee": 4067.7,
+        "hospital_admissions": 113
+      }
+    },
+    "quarterly_pacing": {
+      "Q1": {
+        "total_spend": 8144371.6,
+        "claim_volume": 9432,
+        "avg_spend": 4165.92
+      },
+      "Q2": {
+        "total_spend": 10288490.6,
+        "claim_volume": 11799,
+        "avg_spend": 4168.76
+      },
+      "Q3": {
+        "total_spend": 9109758.63,
+        "claim_volume": 11106,
+        "avg_spend": 3911.45
+      },
+      "Q4": {
+        "total_spend": 13494268.83,
+        "claim_volume": 15399,
+        "avg_spend": 4154.64
+      }
+    }
+  }
+}

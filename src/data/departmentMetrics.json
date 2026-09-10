@@ -1,0 +1,716 @@
+{
+  "Customer Support": {
+    "headcount": 961,
+    "total_spend": 4095537.92,
+    "total_premium": 8226024.49,
+    "pepy": 4261.75,
+    "median_spend": 2505.01,
+    "mlr": 49.79,
+    "chronic_count": 305,
+    "chronic_pepy": 6960.19,
+    "healthy_pepy": 3007.14,
+    "wellness_count": 415,
+    "wellness_pepy": 4046.39,
+    "non_wellness_pepy": 4425.43,
+    "hosp_stays": 120,
+    "hosp_rate_per_1000": 124.9,
+    "dr_visits": 2992,
+    "dr_visits_per_emp": 3.11,
+    "rx_count": 6785,
+    "rx_per_emp": 7.06,
+    "preventive_visits": 1532,
+    "high_cost_count": 55,
+    "underutilized_count": 17,
+    "avg_health_risk_score": 0.96,
+    "plans": {
+      "Bronze HDHP": {
+        "enrolled": 235,
+        "claims": 596773.38,
+        "premium": 950230.32,
+        "pepy": 2539.46
+      },
+      "Gold PPO": {
+        "enrolled": 254,
+        "claims": 1137252.94,
+        "premium": 2729874.85,
+        "pepy": 4477.37
+      },
+      "Platinum Comprehensive": {
+        "enrolled": 133,
+        "claims": 787643.74,
+        "premium": 2102684.27,
+        "pepy": 5922.13
+      },
+      "Silver PPO": {
+        "enrolled": 339,
+        "claims": 1573867.86,
+        "premium": 2443235.05,
+        "pepy": 4642.68
+      }
+    },
+    "age_cohorts": {
+      "18-29": {
+        "headcount": 261,
+        "spend": 763303.45,
+        "pepy": 2924.53,
+        "chronic_pct": 11.1
+      },
+      "30-39": {
+        "headcount": 282,
+        "spend": 974043.59,
+        "pepy": 3454.06,
+        "chronic_pct": 21.6
+      },
+      "40-49": {
+        "headcount": 238,
+        "spend": 1122643.29,
+        "pepy": 4716.99,
+        "chronic_pct": 39.5
+      },
+      "50-59": {
+        "headcount": 157,
+        "spend": 1029375.0,
+        "pepy": 6556.53,
+        "chronic_pct": 65.0
+      },
+      "60+": {
+        "headcount": 23,
+        "spend": 206172.59,
+        "pepy": 8964.03,
+        "chronic_pct": 82.6
+      }
+    },
+    "monthly_spend": {
+      "1": 251800.01,
+      "2": 274173.94,
+      "3": 296918.89,
+      "4": 298125.53,
+      "5": 382075.55,
+      "6": 320686.42,
+      "7": 300869.06,
+      "8": 347817.33,
+      "9": 330514.76,
+      "10": 382802.81,
+      "11": 429503.84,
+      "12": 480249.78
+    },
+    "quarterly_spend": {
+      "Q1": 822892.84,
+      "Q2": 1000887.5,
+      "Q3": 979201.15,
+      "Q4": 1292556.43
+    }
+  },
+  "Engineering": {
+    "headcount": 2553,
+    "total_spend": 10622059.48,
+    "total_premium": 22459765.7,
+    "pepy": 4160.62,
+    "median_spend": 2608.16,
+    "mlr": 47.29,
+    "chronic_count": 854,
+    "chronic_pepy": 6958.71,
+    "healthy_pepy": 2754.16,
+    "wellness_count": 1106,
+    "wellness_pepy": 4213.52,
+    "non_wellness_pepy": 4120.18,
+    "hosp_stays": 261,
+    "hosp_rate_per_1000": 102.2,
+    "dr_visits": 8247,
+    "dr_visits_per_emp": 3.23,
+    "rx_count": 19296,
+    "rx_per_emp": 7.56,
+    "preventive_visits": 4042,
+    "high_cost_count": 135,
+    "underutilized_count": 34,
+    "avg_health_risk_score": 0.95,
+    "plans": {
+      "Bronze HDHP": {
+        "enrolled": 632,
+        "claims": 1839886.74,
+        "premium": 2605339.63,
+        "pepy": 2911.21
+      },
+      "Gold PPO": {
+        "enrolled": 721,
+        "claims": 3512064.18,
+        "premium": 7920529.36,
+        "pepy": 4871.1
+      },
+      "Platinum Comprehensive": {
+        "enrolled": 369,
+        "claims": 2104666.39,
+        "premium": 5840902.28,
+        "pepy": 5703.7
+      },
+      "Silver PPO": {
+        "enrolled": 831,
+        "claims": 3165442.17,
+        "premium": 6092994.43,
+        "pepy": 3809.2
+      }
+    },
+    "age_cohorts": {
+      "18-29": {
+        "headcount": 648,
+        "spend": 1610159.09,
+        "pepy": 2484.81,
+        "chronic_pct": 13.9
+      },
+      "30-39": {
+        "headcount": 773,
+        "spend": 2765642.82,
+        "pepy": 3577.8,
+        "chronic_pct": 21.6
+      },
+      "40-49": {
+        "headcount": 676,
+        "spend": 3551822.49,
+        "pepy": 5254.18,
+        "chronic_pct": 43.0
+      },
+      "50-59": {
+        "headcount": 393,
+        "spend": 2312763.26,
+        "pepy": 5884.89,
+        "chronic_pct": 64.9
+      },
+      "60+": {
+        "headcount": 63,
+        "spend": 381671.82,
+        "pepy": 6058.28,
+        "chronic_pct": 81.0
+      }
+    },
+    "monthly_spend": {
+      "1": 645649.07,
+      "2": 607245.27,
+      "3": 913982.57,
+      "4": 928619.91,
+      "5": 775913.36,
+      "6": 829159.11,
+      "7": 701283.59,
+      "8": 817669.39,
+      "9": 990489.75,
+      "10": 1095221.91,
+      "11": 1135566.16,
+      "12": 1181259.39
+    },
+    "quarterly_spend": {
+      "Q1": 2166876.91,
+      "Q2": 2533692.38,
+      "Q3": 2509442.73,
+      "Q4": 3412047.46
+    }
+  },
+  "Finance": {
+    "headcount": 964,
+    "total_spend": 4190767.94,
+    "total_premium": 8219055.67,
+    "pepy": 4347.27,
+    "median_spend": 2500.01,
+    "mlr": 50.99,
+    "chronic_count": 309,
+    "chronic_pepy": 6915.61,
+    "healthy_pepy": 3135.64,
+    "wellness_count": 416,
+    "wellness_pepy": 4256.46,
+    "non_wellness_pepy": 4416.21,
+    "hosp_stays": 110,
+    "hosp_rate_per_1000": 114.1,
+    "dr_visits": 3011,
+    "dr_visits_per_emp": 3.12,
+    "rx_count": 7236,
+    "rx_per_emp": 7.51,
+    "preventive_visits": 1507,
+    "high_cost_count": 54,
+    "underutilized_count": 16,
+    "avg_health_risk_score": 0.95,
+    "plans": {
+      "Bronze HDHP": {
+        "enrolled": 243,
+        "claims": 827118.37,
+        "premium": 1008380.26,
+        "pepy": 3403.78
+      },
+      "Gold PPO": {
+        "enrolled": 273,
+        "claims": 1331835.86,
+        "premium": 3002471.65,
+        "pepy": 4878.52
+      },
+      "Platinum Comprehensive": {
+        "enrolled": 110,
+        "claims": 579955.27,
+        "premium": 1716982.61,
+        "pepy": 5272.32
+      },
+      "Silver PPO": {
+        "enrolled": 338,
+        "claims": 1451858.44,
+        "premium": 2491221.15,
+        "pepy": 4295.44
+      }
+    },
+    "age_cohorts": {
+      "18-29": {
+        "headcount": 258,
+        "spend": 974752.78,
+        "pepy": 3778.11,
+        "chronic_pct": 10.9
+      },
+      "30-39": {
+        "headcount": 280,
+        "spend": 1074712.23,
+        "pepy": 3838.26,
+        "chronic_pct": 21.4
+      },
+      "40-49": {
+        "headcount": 261,
+        "spend": 1139932.08,
+        "pepy": 4367.56,
+        "chronic_pct": 44.8
+      },
+      "50-59": {
+        "headcount": 146,
+        "spend": 822562.49,
+        "pepy": 5633.99,
+        "chronic_pct": 61.6
+      },
+      "60+": {
+        "headcount": 19,
+        "spend": 178808.36,
+        "pepy": 9410.97,
+        "chronic_pct": 73.7
+      }
+    },
+    "monthly_spend": {
+      "1": 219169.26,
+      "2": 267915.02,
+      "3": 248566.85,
+      "4": 244119.58,
+      "5": 436851.19,
+      "6": 348898.51,
+      "7": 259195.57,
+      "8": 261969.04,
+      "9": 378273.78,
+      "10": 652999.06,
+      "11": 467983.49,
+      "12": 404826.59
+    },
+    "quarterly_spend": {
+      "Q1": 735651.13,
+      "Q2": 1029869.28,
+      "Q3": 899438.39,
+      "Q4": 1525809.14
+    }
+  },
+  "Human Resources": {
+    "headcount": 487,
+    "total_spend": 1954985.61,
+    "total_premium": 4253806.19,
+    "pepy": 4014.34,
+    "median_spend": 2530.42,
+    "mlr": 45.96,
+    "chronic_count": 146,
+    "chronic_pepy": 6954.89,
+    "healthy_pepy": 2755.34,
+    "wellness_count": 208,
+    "wellness_pepy": 3818.21,
+    "non_wellness_pepy": 4160.57,
+    "hosp_stays": 60,
+    "hosp_rate_per_1000": 123.2,
+    "dr_visits": 1515,
+    "dr_visits_per_emp": 3.11,
+    "rx_count": 3598,
+    "rx_per_emp": 7.39,
+    "preventive_visits": 784,
+    "high_cost_count": 28,
+    "underutilized_count": 7,
+    "avg_health_risk_score": 0.94,
+    "plans": {
+      "Bronze HDHP": {
+        "enrolled": 122,
+        "claims": 339456.41,
+        "premium": 501467.6,
+        "pepy": 2782.43
+      },
+      "Gold PPO": {
+        "enrolled": 154,
+        "claims": 780468.11,
+        "premium": 1692624.55,
+        "pepy": 5067.97
+      },
+      "Platinum Comprehensive": {
+        "enrolled": 57,
+        "claims": 281311.33,
+        "premium": 904553.96,
+        "pepy": 4935.29
+      },
+      "Silver PPO": {
+        "enrolled": 154,
+        "claims": 553749.76,
+        "premium": 1155160.08,
+        "pepy": 3595.78
+      }
+    },
+    "age_cohorts": {
+      "18-29": {
+        "headcount": 104,
+        "spend": 257641.58,
+        "pepy": 2477.32,
+        "chronic_pct": 9.6
+      },
+      "30-39": {
+        "headcount": 168,
+        "spend": 551474.52,
+        "pepy": 3282.59,
+        "chronic_pct": 17.3
+      },
+      "40-49": {
+        "headcount": 123,
+        "spend": 582478.3,
+        "pepy": 4735.6,
+        "chronic_pct": 37.4
+      },
+      "50-59": {
+        "headcount": 81,
+        "spend": 486680.13,
+        "pepy": 6008.4,
+        "chronic_pct": 63.0
+      },
+      "60+": {
+        "headcount": 11,
+        "spend": 76711.08,
+        "pepy": 6973.73,
+        "chronic_pct": 90.9
+      }
+    },
+    "monthly_spend": {
+      "1": 164255.08,
+      "2": 53647.16,
+      "3": 126905.02,
+      "4": 124836.9,
+      "5": 146782.67,
+      "6": 153013.49,
+      "7": 136158.7,
+      "8": 97291.06,
+      "9": 134601.71,
+      "10": 286407.15,
+      "11": 211687.99,
+      "12": 319398.68
+    },
+    "quarterly_spend": {
+      "Q1": 344807.26,
+      "Q2": 424633.06,
+      "Q3": 368051.47,
+      "Q4": 817493.82
+    }
+  },
+  "Marketing": {
+    "headcount": 1187,
+    "total_spend": 5022611.73,
+    "total_premium": 10220802.45,
+    "pepy": 4231.35,
+    "median_spend": 2515.36,
+    "mlr": 49.14,
+    "chronic_count": 379,
+    "chronic_pepy": 6951.82,
+    "healthy_pepy": 2955.29,
+    "wellness_count": 468,
+    "wellness_pepy": 3698.56,
+    "non_wellness_pepy": 4578.15,
+    "hosp_stays": 137,
+    "hosp_rate_per_1000": 115.4,
+    "dr_visits": 3767,
+    "dr_visits_per_emp": 3.17,
+    "rx_count": 8642,
+    "rx_per_emp": 7.28,
+    "preventive_visits": 1726,
+    "high_cost_count": 59,
+    "underutilized_count": 20,
+    "avg_health_risk_score": 0.96,
+    "plans": {
+      "Bronze HDHP": {
+        "enrolled": 300,
+        "claims": 962328.82,
+        "premium": 1221395.92,
+        "pepy": 3207.76
+      },
+      "Gold PPO": {
+        "enrolled": 344,
+        "claims": 1747142.55,
+        "premium": 3749804.46,
+        "pepy": 5078.9
+      },
+      "Platinum Comprehensive": {
+        "enrolled": 151,
+        "claims": 793716.78,
+        "premium": 2376217.13,
+        "pepy": 5256.4
+      },
+      "Silver PPO": {
+        "enrolled": 392,
+        "claims": 1519423.58,
+        "premium": 2873384.94,
+        "pepy": 3876.08
+      }
+    },
+    "age_cohorts": {
+      "18-29": {
+        "headcount": 306,
+        "spend": 916191.36,
+        "pepy": 2994.09,
+        "chronic_pct": 13.4
+      },
+      "30-39": {
+        "headcount": 341,
+        "spend": 1368163.49,
+        "pepy": 4012.21,
+        "chronic_pct": 20.5
+      },
+      "40-49": {
+        "headcount": 313,
+        "spend": 1437035.2,
+        "pepy": 4591.17,
+        "chronic_pct": 43.1
+      },
+      "50-59": {
+        "headcount": 195,
+        "spend": 1069472.02,
+        "pepy": 5484.47,
+        "chronic_pct": 57.9
+      },
+      "60+": {
+        "headcount": 32,
+        "spend": 231749.66,
+        "pepy": 7242.18,
+        "chronic_pct": 62.5
+      }
+    },
+    "monthly_spend": {
+      "1": 521327.35,
+      "2": 296188.94,
+      "3": 343871.98,
+      "4": 503548.83,
+      "5": 445904.95,
+      "6": 301363.55,
+      "7": 266539.74,
+      "8": 292625.25,
+      "9": 470855.34,
+      "10": 460919.3,
+      "11": 589011.88,
+      "12": 530454.62
+    },
+    "quarterly_spend": {
+      "Q1": 1161388.27,
+      "Q2": 1250817.33,
+      "Q3": 1030020.33,
+      "Q4": 1580385.8
+    }
+  },
+  "Operations": {
+    "headcount": 1816,
+    "total_spend": 7234841.88,
+    "total_premium": 15667374.72,
+    "pepy": 3983.94,
+    "median_spend": 2470.88,
+    "mlr": 46.18,
+    "chronic_count": 565,
+    "chronic_pepy": 6750.34,
+    "healthy_pepy": 2734.53,
+    "wellness_count": 782,
+    "wellness_pepy": 3490.48,
+    "non_wellness_pepy": 4357.14,
+    "hosp_stays": 189,
+    "hosp_rate_per_1000": 104.1,
+    "dr_visits": 5679,
+    "dr_visits_per_emp": 3.13,
+    "rx_count": 13343,
+    "rx_per_emp": 7.35,
+    "preventive_visits": 2786,
+    "high_cost_count": 84,
+    "underutilized_count": 36,
+    "avg_health_risk_score": 0.94,
+    "plans": {
+      "Bronze HDHP": {
+        "enrolled": 439,
+        "claims": 1286678.09,
+        "premium": 1804916.84,
+        "pepy": 2930.93
+      },
+      "Gold PPO": {
+        "enrolled": 505,
+        "claims": 2336648.85,
+        "premium": 5408249.75,
+        "pepy": 4627.03
+      },
+      "Platinum Comprehensive": {
+        "enrolled": 232,
+        "claims": 1285999.33,
+        "premium": 3670657.4,
+        "pepy": 5543.1
+      },
+      "Silver PPO": {
+        "enrolled": 640,
+        "claims": 2325515.61,
+        "premium": 4783550.73,
+        "pepy": 3633.62
+      }
+    },
+    "age_cohorts": {
+      "18-29": {
+        "headcount": 468,
+        "spend": 1343715.72,
+        "pepy": 2871.19,
+        "chronic_pct": 8.1
+      },
+      "30-39": {
+        "headcount": 528,
+        "spend": 1705567.3,
+        "pepy": 3230.24,
+        "chronic_pct": 22.9
+      },
+      "40-49": {
+        "headcount": 491,
+        "spend": 2229148.38,
+        "pepy": 4540.02,
+        "chronic_pct": 41.3
+      },
+      "50-59": {
+        "headcount": 285,
+        "spend": 1637530.97,
+        "pepy": 5745.72,
+        "chronic_pct": 58.6
+      },
+      "60+": {
+        "headcount": 44,
+        "spend": 318879.51,
+        "pepy": 7247.26,
+        "chronic_pct": 81.8
+      }
+    },
+    "monthly_spend": {
+      "1": 420606.43,
+      "2": 425788.53,
+      "3": 684346.65,
+      "4": 635963.48,
+      "5": 621063.85,
+      "6": 525794.53,
+      "7": 342832.07,
+      "8": 596216.07,
+      "9": 664773.7,
+      "10": 643087.43,
+      "11": 841645.56,
+      "12": 832723.58
+    },
+    "quarterly_spend": {
+      "Q1": 1530741.61,
+      "Q2": 1782821.86,
+      "Q3": 1603821.84,
+      "Q4": 2317456.57
+    }
+  },
+  "Sales": {
+    "headcount": 2032,
+    "total_spend": 7916085.1,
+    "total_premium": 17790268.82,
+    "pepy": 3895.71,
+    "median_spend": 2512.14,
+    "mlr": 44.5,
+    "chronic_count": 649,
+    "chronic_pepy": 6582.02,
+    "healthy_pepy": 2635.11,
+    "wellness_count": 890,
+    "wellness_pepy": 3660.03,
+    "non_wellness_pepy": 4079.38,
+    "hosp_stays": 190,
+    "hosp_rate_per_1000": 93.5,
+    "dr_visits": 6242,
+    "dr_visits_per_emp": 3.07,
+    "rx_count": 15020,
+    "rx_per_emp": 7.39,
+    "preventive_visits": 3185,
+    "high_cost_count": 85,
+    "underutilized_count": 26,
+    "avg_health_risk_score": 0.93,
+    "plans": {
+      "Bronze HDHP": {
+        "enrolled": 509,
+        "claims": 1324785.49,
+        "premium": 2115906.54,
+        "pepy": 2602.72
+      },
+      "Gold PPO": {
+        "enrolled": 557,
+        "claims": 2518005.05,
+        "premium": 6030018.67,
+        "pepy": 4520.66
+      },
+      "Platinum Comprehensive": {
+        "enrolled": 304,
+        "claims": 1658855.08,
+        "premium": 4829353.86,
+        "pepy": 5456.76
+      },
+      "Silver PPO": {
+        "enrolled": 662,
+        "claims": 2414439.48,
+        "premium": 4814989.75,
+        "pepy": 3647.19
+      }
+    },
+    "age_cohorts": {
+      "18-29": {
+        "headcount": 498,
+        "spend": 1185870.26,
+        "pepy": 2381.27,
+        "chronic_pct": 11.4
+      },
+      "30-39": {
+        "headcount": 630,
+        "spend": 2141021.42,
+        "pepy": 3398.45,
+        "chronic_pct": 23.2
+      },
+      "40-49": {
+        "headcount": 541,
+        "spend": 2547794.95,
+        "pepy": 4709.42,
+        "chronic_pct": 42.1
+      },
+      "50-59": {
+        "headcount": 323,
+        "spend": 1844636.17,
+        "pepy": 5710.95,
+        "chronic_pct": 58.2
+      },
+      "60+": {
+        "headcount": 40,
+        "spend": 196762.3,
+        "pepy": 4919.06,
+        "chronic_pct": 75.0
+      }
+    },
+    "monthly_spend": {
+      "1": 484754.78,
+      "2": 351184.46,
+      "3": 546074.34,
+      "4": 743884.94,
+      "5": 662155.54,
+      "6": 859728.71,
+      "7": 453259.06,
+      "8": 561141.65,
+      "9": 705382.01,
+      "10": 826436.98,
+      "11": 858220.31,
+      "12": 863862.32
+    },
+    "quarterly_spend": {
+      "Q1": 1382013.58,
+      "Q2": 2265769.19,
+      "Q3": 1719782.72,
+      "Q4": 2548519.61
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "total_records_evaluated": 10035,
+  "valid_records_count": 9875,
+  "flagged_records_count": 160,
+  "data_quality_score_pct": 98.41,
+  "checks": {
+    "missing_values": {
+      "gender": 15,
+      "plan_type": 25,
+      "annual_premium": 20,
+      "wellness_program": 20
+    },
+    "duplicates": {
+      "exact_duplicate_rows": 35,
+      "id_collision_rows": 0
+    },
+    "numerical_range_failures": {
+      "invalid_age_out_of_bounds": 12,
+      "negative_total_claim_amount": 10
+    },
+    "categorical_membership_failures": {
+      "invalid_or_unclean_plan_type": 19,
+      "invalid_claim_quarter": 4
+    },
+    "logical_invariant_failures": {
+      "highest_claim_exceeds_total": 10
+    },
+    "preliminary_anomalies": {
+      "extreme_claims_without_hospitalization": 8
+    }
+  }
+}
